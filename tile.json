@@ -1,0 +1,24 @@
+{
+  "name": "your-org/dbt-claude-skills",
+  "version": "1.0.1",
+  "summary": "dbt Claude Skills — encode your team's dbt standards, pipeline workflow, and data quality conventions into Claude Code skills that enforce them automatically.",
+  "private": false,
+  "docs": "README.md",
+  "skills": {
+    "dbt-standards": {
+      "path": "skills/dbt-standards/SKILL.md"
+    },
+    "dbt-pipeline-setup": {
+      "path": "skills/dbt-pipeline-setup/SKILL.md"
+    },
+    "dbt-data-quality": {
+      "path": "skills/dbt-data-quality/SKILL.md"
+    },
+    "dbt-reverse-etl": {
+      "path": "skills/dbt-reverse-etl/SKILL.md"
+    },
+    "dbt-cross-repo-workflow": {
+      "path": "skills/dbt-cross-repo-workflow/SKILL.md"
+    }
+  }
+}
