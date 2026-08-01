@@ -1,6 +1,6 @@
 {
   "name": "your-org/dbt-claude-skills",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "dbt Claude Skills — encode your team's dbt standards, pipeline workflow, and data quality conventions into Claude Code skills that enforce them automatically.",
   "private": false,
   "docs": "README.md",

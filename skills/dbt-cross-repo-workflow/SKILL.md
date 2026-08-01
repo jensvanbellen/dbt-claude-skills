@@ -3,6 +3,7 @@ name: dbt-cross-repo-workflow
 description: Guides working across the data repos simultaneously — your_dbt_project, airflow, and reverse-etl_hightouch. Use when a task spans multiple repos, such as adding a new pipeline end-to-end, modifying a reverse-ETL sync, or setting up a new Airflow DAG for a dbt job.
 allowed-tools: "Read, Write, Edit, Glob, Grep, Bash(git *)"
 user-invocable: true
+license: Apache-2.0
 metadata:
   author: your-org
 ---

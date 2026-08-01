@@ -3,6 +3,7 @@ name: dbt-data-quality
 description: Guides the correct data quality approach at your company — which dbt tests to apply at each layer, when to use warn vs error severity, how to implement dbt contracts on reverse-ETL models, and how to divide responsibilities between dbt tests and Monte Carlo monitoring. Use when adding tests, setting up monitoring, or reviewing quality coverage for a model.
 allowed-tools: "Read, Write, Edit, Glob, Grep"
 user-invocable: true
+license: Apache-2.0
 metadata:
   author: your-org
 ---

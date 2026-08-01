@@ -3,6 +3,7 @@ name: dbt-reverse-etl
 description: Guides building and modifying reverse-ETL pipelines at your company — dbt model structure, data contracts, Hightouch sync YAML, and Airflow orchestration. Use when adding or changing a reverse-ETL model that syncs data to HubSpot (or another destination) via Hightouch.
 allowed-tools: "Read, Write, Edit, Glob, Grep, Bash(git *)"
 user-invocable: true
+license: Apache-2.0
 metadata:
   author: your-org
 ---

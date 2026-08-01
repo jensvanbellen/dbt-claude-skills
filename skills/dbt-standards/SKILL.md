@@ -3,6 +3,7 @@ name: dbt-standards
 description: Enforces your team's dbt conventions — naming, config blocks, YAML format, SQL style, PII tagging, and tag governance. Use when building or modifying any dbt model in the your_dbt_project project.
 allowed-tools: "Read, Write, Edit, Glob, Grep"
 user-invocable: false
+license: Apache-2.0
 metadata:
   author: your-org
 ---

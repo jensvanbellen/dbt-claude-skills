@@ -138,3 +138,8 @@ This repo uses semantic versioning. The current version is reflected in `tile.js
 | New skill added | `minor` |
 | Existing skill updated (rules, references) | `patch` |
 | Skill removed or renamed | `major` |
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) for
+copyright information.

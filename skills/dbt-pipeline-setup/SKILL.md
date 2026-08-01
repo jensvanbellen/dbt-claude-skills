@@ -3,6 +3,7 @@ name: dbt-pipeline-setup
 description: Guides the end-to-end workflow for setting up a new dbt pipeline at your company — from model creation to dbt_jobs.yml configuration to Airflow scheduling. Use when a user wants to add a new model to a job, create a new dbt job, or wire up a pipeline with scheduling.
 allowed-tools: "Read, Write, Edit, Glob, Grep, Bash(git *)"
 user-invocable: true
+license: Apache-2.0
 metadata:
   author: your-org
 ---
